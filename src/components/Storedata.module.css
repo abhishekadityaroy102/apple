@@ -1,0 +1,16 @@
+.more{
+    border:1px solid grey;
+   
+}
+.box{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.box button{
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    color:white;
+}

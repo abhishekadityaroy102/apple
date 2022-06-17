@@ -1,0 +1,25 @@
+.store{
+    display:flex;
+    width: 70%;
+    margin:auto;
+    margin-top:20px;
+    gap:20px;
+    overflow: scroll;
+   overflow-y: hidden;
+    
+}
+.store::-webkit-scrollbar {
+    display: none;
+  }
+.imagebox{
+    height: 150px;
+    width: 200px;
+}
+.imagebox>img{
+    height: 100%;
+    width: 100%;
+}
+.link{
+    text-decoration: none;
+    color:black;
+}

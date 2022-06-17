@@ -1,0 +1,94 @@
+{
+    "store":[
+      {
+          "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-mac-nav-202203?wid=200&hei=130&fmt=png-alpha&.v=1645051958490",
+          "image2":"https://www.apple.com/v/macbook-pro-13/k/images/overview/hero_endframe__bsza6x4fldiq_large.jpg",
+          "name":"Mac",
+          "price":"$1199",
+          "para":"The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day. It’s our most popular pro notebook, taken to a whole new level.",
+          "id":9
+      },
+      {
+          "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-iphone-nav-202109_GEO_US?wid=200&hei=130&fmt=png-alpha&.v=1630706116000",
+          "image2":"https://m.media-amazon.com/images/G/31/img21/Wireless/katariy/Apple/Aplus_content/13_desk/iPhone_13_Product_Page_Flex_Module_Amazon_Desktop_Avail_1500__en-IN_01._CB640700609_.jpg",
+          "name":"iPhone",
+          "para":"The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day. It’s our most popular pro notebook, taken to a whole new level.",
+          "price":"$1099","id":10
+      },
+      {
+        "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-ipad-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783381000",
+        "image2":"https://m.media-amazon.com/images/G/31/img21/Tablets/Apple-NPI/April-21/IN_r1444_Marketing_Page_Amazon_1500_FFH_01._CB670737309_.jpg",
+        "name":"iPad",
+        "para":"The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day. It’s our most popular pro notebook, taken to a whole new level.",
+        "price":"$1299","id":11
+    },
+    {
+        "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-watch-nav-202203?wid=200&hei=130&fmt=png-alpha&.v=1645052537409",
+        "image2":"https://m.media-amazon.com/images/G/31/img21/Wearables/Apple/NPI_2022/7_LTE/Apple_Watch_Series_7_LTE_Product_Page_Flex_Module_Avail_Amazon_Desktop__en-IN_01._CB626547304_.jpg",
+        "name":"Apple Watch",
+        "para":"The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day. It’s our most popular pro notebook, taken to a whole new level.",
+        "price":"$899","id":12
+    },
+    {
+        "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-airpods-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1633718741000",
+        "image2":"https://www.apple.com/v/airpods/r/images/overview/airpods_pro_right__fm0wwisa76em_large.png",
+        "name":"AirPods",
+        "para":"The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day. It’s our most popular pro notebook, taken to a whole new level.",
+        "price":"$1099","id":13
+    }
+    ],
+    "Mac":[
+        {
+         "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-gold-select-201810?wid=539&hei=312&fmt=jpeg&qlt=95&.v=1633027804000",
+         "name":"MacBook Air",
+         "price":"$999" ,"id":14
+        },
+        {
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-spacegray-select-202011_GEO_IN?wid=640&hei=595&fmt=jpeg&qlt=95&.v=1632948896000",
+            "name":"MacBook Pro",
+            "price":"$1999" ,"id":15
+           },
+           {
+            "image":"https://www.apple.com/v/imac-24/e/images/overview/color_front_green__eb8qbnemmre6_medium.jpg",
+            "name":"iMac 24",
+            "price":"$1899"   ,"id":16
+           },
+           {
+            "image":"https://rukminim2.flixcart.com/image/416/416/khdqnbk0/cpu/g/5/m/mgnr3hn-a-apple-original-imafxexfwzgxgdfx.jpeg?q=70",
+            "name":"Mac mini",
+            "price":"$500"  ,"id":17 
+           },
+           {
+            "image":"https://www.apple.com/v/mac-studio/b/images/overview/hero/static_back__dx1rvyhaaxsi_medium.jpg",
+            "name":"Mac Studio",
+            "price":"$700","id":18 
+           }
+    ],
+    "iPhone":[
+        {
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-compare-iphone-13-pro-202203?wid=488&hei=512&fmt=jpeg&qlt=90&.v=1645042316939",
+            "name":"iPhone 13 Pro",
+            "price":"$1299","id":19
+        },
+        {
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-2022-gallery-5_GEO_EMEA?wid=4056&hei=2400&fmt=jpeg&qlt=90&.v=1645647602748",
+            "name":"iPhone 13",
+            "price":"$1099","id":20
+        },
+        {
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-compare-iphone-se-202203?wid=488&hei=512&fmt=jpeg&qlt=90&.v=1645035723159",
+            "name":"iPhone SE",
+            "price":"$1199","id":21
+        },
+        {
+            "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000",
+            "name":"iPhone 12",
+            "price":"$1199","id":22
+        }
+        , {
+            "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=882&hei=1058&fmt=jpeg&qlt=90&.v=1567022175704",
+            "name":"iPhone 11",
+            "price":"$999","id":23
+        }
+    ]
+}
