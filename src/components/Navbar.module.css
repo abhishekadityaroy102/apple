@@ -3,25 +3,34 @@
     width: 100%;
     justify-content: space-around;
     border:1px solid gray;
-    margin:auto;
+    margin: auto;
+    height: 60px;
     background-color:black;
     color: white;
 }
 .middle{
     display: flex;
+   margin: auto;
+   
     gap:30px;
 }
 .last{
     display:flex;
+    margin:auto;
     gap:20px;
 }
 .logo{
    height: 40px;
-  margin-top:5px;
+ 
     width: 60px;
+    margin: auto;
+    margin-top: 7px;
     background-color: white;
 }
 .link{
     text-decoration: none;
     color:white
+}
+.logobox{
+    width: 30%;
 }

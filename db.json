@@ -4,7 +4,7 @@
           "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-mac-nav-202203?wid=200&hei=130&fmt=png-alpha&.v=1645051958490",
           "image2":"https://www.apple.com/v/macbook-pro-13/k/images/overview/hero_endframe__bsza6x4fldiq_large.jpg",
           "name":"Mac",
-          "price":"$1199",
+          "price":1199,
           "para":"The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day. It’s our most popular pro notebook, taken to a whole new level.",
           "id":9
       },
@@ -13,28 +13,28 @@
           "image2":"https://m.media-amazon.com/images/G/31/img21/Wireless/katariy/Apple/Aplus_content/13_desk/iPhone_13_Product_Page_Flex_Module_Amazon_Desktop_Avail_1500__en-IN_01._CB640700609_.jpg",
           "name":"iPhone",
           "para":"The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day. It’s our most popular pro notebook, taken to a whole new level.",
-          "price":"$1099","id":10
+          "price":1099,"id":10
       },
       {
         "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-ipad-nav-202108?wid=200&hei=130&fmt=png-alpha&.v=1625783381000",
         "image2":"https://m.media-amazon.com/images/G/31/img21/Tablets/Apple-NPI/April-21/IN_r1444_Marketing_Page_Amazon_1500_FFH_01._CB670737309_.jpg",
         "name":"iPad",
         "para":"The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day. It’s our most popular pro notebook, taken to a whole new level.",
-        "price":"$1299","id":11
+        "price":1299,"id":11
     },
     {
         "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-watch-nav-202203?wid=200&hei=130&fmt=png-alpha&.v=1645052537409",
         "image2":"https://m.media-amazon.com/images/G/31/img21/Wearables/Apple/NPI_2022/7_LTE/Apple_Watch_Series_7_LTE_Product_Page_Flex_Module_Avail_Amazon_Desktop__en-IN_01._CB626547304_.jpg",
         "name":"Apple Watch",
         "para":"The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day. It’s our most popular pro notebook, taken to a whole new level.",
-        "price":"$899","id":12
+        "price":899,"id":12
     },
     {
         "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/store-card-13-airpods-nav-202110?wid=200&hei=130&fmt=png-alpha&.v=1633718741000",
         "image2":"https://www.apple.com/v/airpods/r/images/overview/airpods_pro_right__fm0wwisa76em_large.png",
         "name":"AirPods",
         "para":"The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day. It’s our most popular pro notebook, taken to a whole new level.",
-        "price":"$1099","id":13
+        "price":1099,"id":13
     }
     ],
     "Mac":[
